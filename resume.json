@@ -1,0 +1,237 @@
+{
+  "basics": {
+    "name": "Mahendra Singh",
+    "label": "Software Engineer",
+    "picture": "https://en.gravatar.com/userimage/154208634/59e265ba1b7d213d1a865a110321441a.jpg?size=300",
+    "email": "mahendra3006@outlook.com",
+    "phone": "",
+    "website": "mahendra3006@outlook.com",
+    "summary": [
+      "Prolific, full stack web developer with more than 5 years of well-rounded industry experience in crafting spectacular experiences for user interfaces.",
+      "A seasoned team player, adapted to the Agile ecosystem, backed by multiple projects across different domains. Extensive technical knowledge in JavaScript, React JS, Angular JS, Node.JS, HTML5, CSS3, Bootstrap, SASS, Java, SQL.",
+      "An eye for detail and performance without compromising the coding standards and design guidelines."
+    ],
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bangalore",
+      "countryCode": "India",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Email",
+        "username": "mahendra3006@outlook.com",
+        "url": "mailto:mahendra3006@outlook.com"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mahendra3006",
+        "url": "https://www.linkedin.com/in/mahendra3006"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "mahendra3006",
+        "url": "https://stackoverflow.com/users/1455248/mahendra-singh"
+      },
+      {
+        "network": "GitHub",
+        "username": "mahendra3006",
+        "url": "https://github.com/mahendra3006"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "SAP Labs India",
+      "position": "Software Engineer",
+      "website": "https://www.sap.com/",
+      "startDate": "2016-08-08",
+      "endDate": "Present",
+      "summary": "Bangalore, India",
+      "highlights": [
+        "Primarily used SAP UI5 and React JS to build UI for multiple apps.",
+        "Participated in the design, development and implementation of the UI layer of the CML(Consumer Mortgage Loan) system for Helaba, one of the biggest banks in Germany. The UI solution consisted of 17 sub-apps, each pertaining to a different financial operation.",
+        "Created Contextor RPA(Robotic Process Automation) scripts to automate sales order processing and invoice management.",
+        "Developed multiple prototypes with 3D charts and Virtual Reality with SAP 3D Visualization tools."
+      ]
+    },
+    {
+      "company": "Nextgen Healthcare Pvt Ltd",
+      "position": "Software Engineer",
+      "website": "https://www.nextgen.com/",
+      "startDate": "2014-11-08",
+      "endDate": "2016-08-05",
+      "summary": "Bangalore, India",
+      "highlights": [
+        "Implemented DMS(Document Management System) tool for the NGNow product which is a healthcare IT solution for hospitals.",
+        "Designed and Implemented various core components in AngularJS for the NGNow product.",
+        "Developed UI component library for the Mirth 3.0 platform (a cross-platform interface engine for healthcare systems), known as ZEST and with 100% test coverage."
+      ]
+    },
+    {
+      "company": "Compassites Software Solutions",
+      "position": "Consultant Development",
+      "website": "https://www.compassitesinc.com/",
+      "startDate": "2013-06-03",
+      "endDate": "2014-11-07",
+      "summary": "Bangalore, India",
+      "highlights": [
+        "Developed an airline ticket management solution from scratch with Angular JS, Java, REST and SOAP, using Amadeus and Mystifly APIs.",
+        "Designed and Implemented custom plugins for JSDoc, a tool to generate documentation from source code.",
+        "Implemented backend services with .NET C# and Node.js for various financial projects."
+      ]
+    }
+  ],
+  "volunteer": [
+
+  ],
+  "education": [
+    {
+      "institution": "BIET Jhansi",
+      "area": "B.Tech in Computer Science",
+      "studyType": "Bachelors",
+      "startDate": "2009-07-01",
+      "endDate": "2013-06-01",
+      "gpa": "Distinction",
+      "summary": "Uttar Pradesh, India",
+      "courses": [
+        "Smart Phone Applications Development",
+        "Financial Computing",
+        "User Interface Design and Development",
+        "Computation Intelligence and Machine Learning",
+        "Web Technologies",
+        "Data Mining",
+        "Analysis and Design in UML",
+        "Securities Transaction Banking",
+        "Computational Finance",
+        "Visualization and Visual Analytics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "<AWARD_TITLE>",
+      "date": "<DATE>",
+      "awarder": "<AWARDER>",
+      "summary": "<SUMMARY>"
+    }
+  ],
+  "projects": [
+    {
+      "name": "React Country Picker",
+      "publisher": "mahendra3006",
+      "category": "Web",
+      "releaseDate": "",
+      "website": "http://mahendra3006.github.io/react-country-picker",
+      "summary": "A Simple country picker application build with React and Redux.This calls a country API for fetching country information.",
+      "image": {
+        "modal": "/images/cp.png",
+        "thumb": "/images/cp.png"
+      },
+      "keywords": [
+        "JavaScript",
+        "React",
+        "Redux",
+        "Fetch"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming Languages",
+      "description": [
+        "Worked primarily with Frontend development with JavaScript with frameworks such as React JS, Angular JS.",
+        "Also worked in backend with Javascript,Java and C#, Express.js, Spring and .NET",
+        "Interested in functional programming and Serverless architectures."
+      ],
+      "skillDetails": [
+        {
+          "name": "JavaScript",
+          "level": "90",
+          "keywords": [
+            "programming",
+            "expressjs",
+            "reactjs"
+          ]
+        },
+        {
+          "name": "Java",
+          "level": "60",
+          "keywords": [
+            "programming",
+            "spring"
+          ]
+        },
+        {
+          "name": "C#",
+          "level": "50",
+          "keywords": [
+            "programming"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "UI Frameworks",
+      "description": [
+        "Used a multitude of frameworks to create fast,efficient UI layers for multiple projects."
+      ],
+      "skillDetails": [
+        {
+          "name": "React JS",
+          "level": "80",
+          "keywords": [
+            "react",
+            "frontend"
+          ]
+        },
+        {
+          "name": "Angular JS",
+          "level": "70",
+          "keywords": [
+            "frontend",
+            "angular"
+          ]
+        },
+        {
+          "name": "SAP UI5",
+          "level": "70",
+          "keywords": [
+            "frontend",
+            "fiori"
+          ]
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "level": "100"
+    },
+    {
+      "name": "Hindi",
+      "level": "90"
+    }
+  ],
+  "interests": [
+    {
+      "name": "New Technologies",
+      "keywords": []
+    },
+    {
+      "name": "Psychology",
+      "keywords": []
+    },
+    {
+      "name": "Startups",
+      "keywords": []
+    },
+    {
+      "name": "Yoga",
+      "keywords": []
+    }
+  ],
+  "portfolio": []
+}
