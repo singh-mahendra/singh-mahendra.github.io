@@ -1,0 +1,57 @@
+{
+  "name": "singh-mahendra.github.io",
+  "private": true,
+  "description": "Mahendra Singh personal site",
+  "version": "1.2.2",
+  "homepage": "https://singh-mahendra.github.io",
+  "author": {
+    "name": "Mahendra Singh",
+    "email": "mahendra3006@outlook.com",
+    "url": "https://singh-mahendra.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/singh-mahendra/singh-mahendra.github.io"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 2.0.0"
+  },
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open --mode development --content-base ./dist",
+    "test": "npm run lint && npm run security-check && npm run bundle",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist -b master"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "create-react-class": "^15.6.3",
+    "css-loader": "latest",
+    "eslint": "^4.19.1",
+    "eslint-plugin-react": "^7.12.4",
+    "file-loader": "^3.0.1",
+    "gh-pages": "^2.0.1",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "husky": "^0.14.0",
+    "moment": "^2.19.4",
+    "nuka-carousel": "^2.0.0",
+    "prop-types": "15.7.2",
+    "react": "^16.8.4",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-dom": "^16.8.4",
+    "react-modal": "^2.4.1",
+    "react-router": "^3.0.0",
+    "style-loader": "latest",
+    "superagent": "^3.8.0",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1",
+    "webpack-s3-plugin": "^0.9.0"
+  }
+}
